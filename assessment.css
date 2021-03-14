@@ -1,0 +1,25 @@
+#assessment-body {
+    display: inline-block;
+    background-color: #04a6eb;
+    color: #fdffff;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+#assessment-body h1 {
+    margin-top: 0;
+}
+
+#assessment-body button {
+    padding: 3px 20px;
+    background-color: #337ab7;
+    border-style: none;
+    color: #fdffff;
+    height: 26px;
+}
+
+#assessment-body input {
+    padding: 3px;
+    border-style: none;
+    height: 20px;
+}
